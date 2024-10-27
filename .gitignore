@@ -1,0 +1,11 @@
+[A-Z]*/
+
+*~
+.emacs.d/session.*
+.emacs.d/#*#
+
+.Trash
+.DS_Store
+.ssh/*
+.zsh_sessions/*
+
